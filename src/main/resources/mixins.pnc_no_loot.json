@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.gencal.pnc_no_loot.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "LootTablesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "refmap.pnc_no_loot.json"
+}

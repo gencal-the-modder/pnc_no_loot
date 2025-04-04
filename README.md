@@ -1,2 +1,2 @@
-# pnc_no_loot
+# PneumaticCraft: no loot
 Remove annoying loot from PneumaticCraft
